@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+<title>My Videos</title>
+</head>
+<body>
+ 
+ <div>
+ <h1>My Videos</h1>
+ </div>
+
+   <h2 style= "color: #FFFFFF;"><a href="my_videos_youtube_poop.html">Youtube Poop</a></h2>
+   
+ 
+    <div>
+    <h1 style= "color:#FFFFFF;">.</h1>
+    </div>
+    
+    <p>
+    <a href="index.html">Return to home page</a> 
+    </p>   
+ 
+</body>
+</html>
